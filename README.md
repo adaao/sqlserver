@@ -1,0 +1,2 @@
+# sqlserver
+exercícios de sql
